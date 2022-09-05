@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kill Team</string>
+    <string name="start_game">Start Game</string>
+    <string name="end_game">End Game</string>
+    <string name="turning_point">Turning Point</string>
+    <string name="command_point">Command Point = 0</string>
+    <string name="victory_point">Victory Point = 0</string>
+    <string name="remove">-</string>
+    <string name="add">+</string>
+    <string name="bottomCounter">Counter</string>
+    <string name="bottomKillteam">Kill Team</string>
+    <string name="bottomPloys">Ploys</string>
+    <string name="bottomTacOps">TacOps</string>
+
+    <string-array name="kill_teams">
+        <item>Kill Team 1</item>
+        <item>Kill Team 2</item>
+        <item>Kill Team 3</item>
+        <item>Kill Team 4</item>
+        <item>Kill Team 5</item>
+    </string-array>
+</resources>

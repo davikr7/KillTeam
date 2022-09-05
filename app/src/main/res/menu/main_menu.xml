@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottomCounter"
+        android:icon="@drawable/ic_counter"
+        android:title="@string/bottomCounter"
+        android:orderInCategory="1"
+        />
+
+    <item
+        android:id="@+id/bottomKillteam"
+        android:icon="@drawable/ic_killteam"
+        android:title="@string/bottomKillteam"
+        android:orderInCategory="2"
+        />
+
+    <item
+        android:id="@+id/bottomPloys"
+        android:icon="@drawable/ic_ploys"
+        android:title="@string/bottomPloys"
+        android:orderInCategory="3"
+        />
+
+    <item
+        android:id="@+id/bottomTacOps"
+        android:icon="@drawable/ic_tacops"
+        android:title="@string/bottomTacOps"
+        android:orderInCategory="4"
+        />
+
+</menu>
